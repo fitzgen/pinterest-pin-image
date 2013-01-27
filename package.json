@@ -1,8 +1,8 @@
 {
   "name": "pinterest-pin-image",
-  "fullName": "pinterest-pin-image",
-  "id": "jid1-gdWvwKz4XoQStg",
-  "description": "a basic add-on",
+  "fullName": "Pinterest Pin Image",
+  "id": "jid1-gdWvwKz4XoQdUw",
+  "description": "Adds the option to pin to pinterest when you right click on an image.",
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1"
